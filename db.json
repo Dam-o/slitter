@@ -21,9 +21,21 @@
 
       {
           "id":4,
-         "name": "SM204",
+         "name": "SM204",   
         "type": "slitter",
         "lastAudit": ""
-    }
+     },
+     {
+        "id":5,
+       "name": "SM205",   
+      "type": "slitter",
+      "lastAudit": ""
+   },
+   {
+    "id":6,
+   "name": "SM206",   
+  "type": "slitter",
+  "lastAudit": ""
+}
     ]
   }
