@@ -1,0 +1,22 @@
+{
+    "slitter": [
+      {
+        "id": 1,
+        "name": "SM201",
+        "type": "slitter",
+        "lastAudit": ""
+      },
+      {
+        "id": 2,
+        "name": "SM202",
+        "type": "slitter",
+        "lastAudit": ""
+      },
+      {
+        "id": 3,
+        "name": "SM203",
+        "type": "slitter",
+        "lastAudit": ""
+      }
+    ]
+  }
