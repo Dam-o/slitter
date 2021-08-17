@@ -5,21 +5,24 @@
         "name": "SM201",
         "type": "slitter",
         "lastAudit": "",
-        "status": ""
+        "status": "",
+        "notes": ""
       },
       {
         "id": 2,
         "name": "SM202",
         "type": "slitter",
         "lastAudit": "",
-        "status": "" 
+        "status": "",
+        "notes": ""
       },
       {
         "id": 3,
         "name": "SM203",
         "type": "slitter",
         "lastAudit": "",
-        "status": ""
+        "status": "",
+        "notes": ""
       },
 
       {
@@ -27,21 +30,24 @@
          "name": "SM204",   
         "type": "slitter",
         "lastAudit": "",
-        "status": ""
+        "status": "",
+        "notes": ""
      },
      {
         "id":5,
        "name": "SM205",   
       "type": "slitter",
       "lastAudit": "",
-      "status": ""
+      "status": "",
+      "notes": ""
     },
     {
     "id":6,
     "name": "SM206",   
      "type": "slitter",
      "lastAudit": "",
-     "status": ""
+     "status": "",
+     "notes": ""
 }
     ]
   }
