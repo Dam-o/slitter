@@ -4,38 +4,44 @@
         "id": 1,
         "name": "SM201",
         "type": "slitter",
-        "lastAudit": ""
+        "lastAudit": "",
+        "status": ""
       },
       {
         "id": 2,
         "name": "SM202",
         "type": "slitter",
-        "lastAudit": ""
+        "lastAudit": "",
+        "status": "" 
       },
       {
         "id": 3,
         "name": "SM203",
         "type": "slitter",
-        "lastAudit": ""
+        "lastAudit": "",
+        "status": ""
       },
 
       {
           "id":4,
          "name": "SM204",   
         "type": "slitter",
-        "lastAudit": ""
+        "lastAudit": "",
+        "status": ""
      },
      {
         "id":5,
        "name": "SM205",   
       "type": "slitter",
-      "lastAudit": ""
-   },
-   {
+      "lastAudit": "",
+      "status": ""
+    },
+    {
     "id":6,
-   "name": "SM206",   
-  "type": "slitter",
-  "lastAudit": ""
+    "name": "SM206",   
+     "type": "slitter",
+     "lastAudit": "",
+     "status": ""
 }
     ]
   }
