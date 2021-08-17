@@ -17,6 +17,13 @@
         "name": "SM203",
         "type": "slitter",
         "lastAudit": ""
-      }
+      },
+
+      {
+          "id":4,
+         "name": "SM204",
+        "type": "slitter",
+        "lastAudit": ""
+    }
     ]
   }
