@@ -6,7 +6,7 @@
         "type": "slitter",
         "lastAudit": "",
         "status": "",
-        "notes": ""
+        "who": ""
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "type": "slitter",
         "lastAudit": "",
         "status": "",
-        "notes": ""
+        "who": ""
       },
       {
         "id": 3,
@@ -22,32 +22,32 @@
         "type": "slitter",
         "lastAudit": "",
         "status": "",
-        "notes": ""
+        "who": ""
       },
 
       {
-          "id":4,
-         "name": "SM204",   
+        "id":4,
+        "name": "SM204",   
         "type": "slitter",
         "lastAudit": "",
         "status": "",
-        "notes": ""
+        "who": ""
      },
      {
-        "id":5,
-       "name": "SM205",   
+      "id":5,
+      "name": "SM205",   
       "type": "slitter",
       "lastAudit": "",
       "status": "",
-      "notes": ""
+      "who": ""
     },
     {
     "id":6,
     "name": "SM206",   
-     "type": "slitter",
-     "lastAudit": "",
-     "status": "",
-     "notes": ""
+    "type": "slitter",
+    "lastAudit": "",
+    "status": "",
+    "who": ""
 }
     ]
   }
