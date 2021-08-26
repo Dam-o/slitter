@@ -5,49 +5,115 @@
         "name": "SM201",
         "type": "slitter",
         "lastAudit": "",
-        "status": "",
-        "notes": ""
+        "status": {
+          "answer1": "",
+          "answer2": "",
+          "answer3": "",
+          "answer4": "",
+          "answer5": "",
+          "answer6": "",
+          "answer7": "",
+          "answer8": "",
+          "answer9": "",
+          "answer10": ""
+      },
+        "who": ""
       },
       {
         "id": 2,
         "name": "SM202",
         "type": "slitter",
         "lastAudit": "",
-        "status": "",
-        "notes": ""
+        "status": {
+          "answer1": "",
+          "answer2": "",
+          "answer3": "",
+          "answer4": "",
+          "answer5": "",
+          "answer6": "",
+          "answer7": "",
+          "answer8": "",
+          "answer9": "",
+          "answer10": ""
+      },
+        "who": ""
       },
       {
         "id": 3,
         "name": "SM203",
         "type": "slitter",
         "lastAudit": "",
-        "status": "",
-        "notes": ""
+        "status": {
+          "answer1": "",
+          "answer2": "",
+          "answer3": "",
+          "answer4": "",
+          "answer5": "",
+          "answer6": "",
+          "answer7": "",
+          "answer8": "",
+          "answer9": "",
+          "answer10": ""
+      }, 
+        "who": ""
       },
 
       {
-          "id":4,
-         "name": "SM204",   
+        "id":4,
+        "name": "SM204",   
         "type": "slitter",
         "lastAudit": "",
-        "status": "",
-        "notes": ""
+        "status": {
+          "answer1": "",
+          "answer2": "",
+          "answer3": "",
+          "answer4": "",
+          "answer5": "",
+          "answer6": "",
+          "answer7": "",
+          "answer8": "",
+          "answer9": "",
+          "answer10": ""
+      },
+        "who": ""
      },
      {
-        "id":5,
-       "name": "SM205",   
+      "id":5,
+      "name": "SM205",   
       "type": "slitter",
       "lastAudit": "",
-      "status": "",
-      "notes": ""
+      "status": {
+        "answer1": "",
+        "answer2": "",
+        "answer3": "",
+        "answer4": "",
+        "answer5": "",
+        "answer6": "",
+        "answer7": "",
+        "answer8": "",
+        "answer9": "",
+        "answer10": ""
+    },
+      "who": ""
     },
     {
     "id":6,
     "name": "SM206",   
-     "type": "slitter",
-     "lastAudit": "",
-     "status": "",
-     "notes": ""
+    "type": "slitter",
+    "lastAudit": "",
+    "status": {
+      "answer1": "",
+      "answer2": "",
+      "answer3": "",
+      "answer4": "",
+      "answer5": "",
+      "answer6": "",
+      "answer7": "",
+      "answer8": "",
+      "answer9": "",
+      "answer10": ""
+  },
+    "who": ""
 }
     ]
   }
