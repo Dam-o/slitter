@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "json:server": "json-server --watch db.json",
+    "json:server": "npx json-server --watch db.json",
     "json:server:remote": "json-server https://my-json-server.typicode.com/Dam-o/slitter/slitter"
   },
   "repository": {
